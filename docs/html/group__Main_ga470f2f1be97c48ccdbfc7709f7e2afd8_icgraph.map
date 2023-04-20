@@ -1,5 +1,0 @@
-<map id="on_ble_peripheral_evt" name="on_ble_peripheral_evt">
-<area shape="rect" id="node1" title="The big source for processing BLE peripheral events. ." alt="" coords="340,5,507,32"/>
-<area shape="rect" id="node2" href="$group__Main.html#ga41eb4deadd05b126c24a79a218eca614" title="Function for handling BLE events." alt="" coords="165,5,292,32"/>
-<area shape="rect" id="node3" href="$group__Main.html#gac20292bb47b59093357dcee5bc1650a5" title="Function for initializing the BLE stack." alt="" coords="5,5,117,32"/>
-</map>

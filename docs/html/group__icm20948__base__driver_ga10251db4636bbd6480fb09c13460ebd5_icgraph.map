@@ -1,4 +1,0 @@
-<map id="inv_icm20948_set_icm20948_gyro_fullscale" name="inv_icm20948_set_icm20948_gyro_fullscale">
-<area shape="rect" id="node1" title="Sets fullscale range of gyro in hardware." alt="" coords="229,5,440,47"/>
-<area shape="rect" id="node2" href="$group__icm20948__base__driver.html#ga5ce5d8d8eafc9e69f91bf68125d9c6b9" title="Sets fullscale range of gyro in hardware." alt="" coords="5,5,181,47"/>
-</map>

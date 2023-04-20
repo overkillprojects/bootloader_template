@@ -1,5 +1,0 @@
-<map id="ble_stack_init" name="ble_stack_init">
-<area shape="rect" id="node1" title="Function for initializing the BLE stack." alt="" coords="5,5,117,32"/>
-<area shape="rect" id="node2" href="$group__Main.html#gaf79fad11603ce86f991e529e023dc564" title="Function for handling BLE events." alt="" coords="165,5,292,32"/>
-<area shape="rect" id="node3" href="$group__Main.html#ga948fb64b4cafadaff94dc15bb3d66603" title="Function for handling BLE events from the central application." alt="" coords="340,5,485,32"/>
-</map>

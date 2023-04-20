@@ -1,5 +1,0 @@
-<map id="timers_init" name="timers_init">
-<area shape="rect" id="node1" title="Function for the Timer initialization." alt="" coords="5,42,97,69"/>
-<area shape="rect" id="node2" href="$group__Main.html#ga79af1ac4b82a22b21b34562f8a7fe49b" title="Function for handling the Battery measurement timer timeout." alt="" coords="145,5,296,47"/>
-<area shape="rect" id="node3" href="$group__Main.html#gaae4a8c0e72716c16b6430ae81a28f61b" title="Function for the Low&#45;frequency clock initialization." alt="" coords="181,71,260,98"/>
-</map>

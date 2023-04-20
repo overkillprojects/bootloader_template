@@ -1,4 +1,0 @@
-<map id="inv_msg_printer_default" name="inv_msg_printer_default">
-<area shape="rect" id="node1" title="Default printer function that display messages to stderr Function uses stdio. Care must be taken on e..." alt="" coords="212,5,392,32"/>
-<area shape="rect" id="node2" href="$group__Message.html#ga3be2b00801bd5781e53cb9be67138295" title="Set message level Default printer function will be used." alt="" coords="5,5,164,32"/>
-</map>

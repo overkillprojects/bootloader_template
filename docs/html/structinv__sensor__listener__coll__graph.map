@@ -1,4 +1,0 @@
-<map id="inv_sensor_listener" name="inv_sensor_listener">
-<area shape="rect" id="node1" title="Sensor event listener definition." alt="" coords="5,95,153,121"/>
-<area shape="rect" id="node2" href="$structinv__sensor__event.html" title="Sensor event definition." alt="" coords="11,5,147,32"/>
-</map>

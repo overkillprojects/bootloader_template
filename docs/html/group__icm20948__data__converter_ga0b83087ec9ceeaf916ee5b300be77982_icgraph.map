@@ -1,4 +1,0 @@
-<map id="inv_icm20948_convert_quat_rotate_fxp" name="inv_icm20948_convert_quat_rotate_fxp">
-<area shape="rect" id="node1" title="Converts long values according to quat_30 matrix." alt="" coords="223,5,392,47"/>
-<area shape="rect" id="node2" href="$group__icm20948__data__converter.html#ga04b38e3dec1099d68e0af9ff83807470" title="Converts the data in android values." alt="" coords="5,5,175,47"/>
-</map>

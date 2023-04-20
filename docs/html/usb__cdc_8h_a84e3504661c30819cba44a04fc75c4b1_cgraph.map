@@ -1,5 +1,0 @@
-<map id="usb_cdc_init" name="usb_cdc_init">
-<area shape="rect" id="node1" title="Function to initialize USB CDC driver." alt="" coords="5,31,108,57"/>
-<area shape="rect" id="node2" href="$group__DeviceInfo.html#ga4538fc754a643e8770f6ae27b77a3c8f" title="Retrieve the serial number of the device." alt="" coords="156,5,360,32"/>
-<area shape="rect" id="node3" href="$usb__cdc_8h.html#a0a65681066182b2bd9432993a2c4efb7" title="Callback for USB events." alt="" coords="175,56,341,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="inv_icm20948_convert_compute_scalar_part_fxp" name="inv_icm20948_convert_compute_scalar_part_fxp">
-<area shape="rect" id="node1" title="Compute real part of quaternion, element[0]." alt="" coords="5,35,199,76"/>
-<area shape="rect" id="node2" href="$group__icm20948__data__converter.html#ga2c0d8b1b447f98ecebf8625774da6b8a" title="Calculates square&#45;root of a fixed&#45;point number (30 bit mantissa, positive)" alt="" coords="247,64,416,105"/>
-<area shape="rect" id="node3" href="$group__icm20948__data__converter.html#ga7649bd9344876e119c46f8bc5d05d258" title=" " alt="" coords="479,5,648,47"/>
-<area shape="rect" id="node4" href="$group__icm20948__data__converter.html#ga0a10e6fbd9620e91317cbb857a6fe3a4" title="Auxiliary function used by inv_OneOverX(), inv_fastSquareRoot(), inv_inverseSqrt()." alt="" coords="464,71,663,112"/>
-<area shape="rect" id="node5" href="$group__icm20948__data__converter.html#ga6d526f3608f1bfaf345b52c99cc3fb2e" title=" " alt="" coords="711,71,899,112"/>
-</map>

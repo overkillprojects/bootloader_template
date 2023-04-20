@@ -1,5 +1,0 @@
-<map id="usb_cdc_deinit" name="usb_cdc_deinit">
-<area shape="rect" id="node1" title="Function to initialize USB CDC driver." alt="" coords="5,5,124,32"/>
-<area shape="rect" id="node2" href="$group__FileDriver.html#gae154d53b97ec8790f88f727d4dec65cc" title="File driver uninitialization function." alt="" coords="172,5,303,32"/>
-<area shape="rect" id="node3" href="$group__FlashMem.html#ga8b2dc3a41e627e41e81ef81db3c304f2" title="Function to de&#45;initialize audio driver." alt="" coords="351,5,489,32"/>
-</map>

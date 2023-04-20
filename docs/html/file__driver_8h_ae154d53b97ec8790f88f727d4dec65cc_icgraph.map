@@ -1,6 +1,0 @@
-<map id="file_driver_deinit" name="file_driver_deinit">
-<area shape="rect" id="node1" title="File driver uninitialization function." alt="" coords="335,31,465,57"/>
-<area shape="rect" id="node2" href="$group__Audio.html#gac6720c0f80fe731b450f096892ffe4d2" title="Function to de&#45;initialize audio driver." alt="" coords="176,5,279,32"/>
-<area shape="rect" id="node4" href="$usb__cdc_8h.html#a9ff5b57734e06ff34aba56a2c84a647d" title="Function to initialize USB CDC driver." alt="" coords="168,56,287,83"/>
-<area shape="rect" id="node3" href="$group__Activity.html#ga1c7b352aaa42016e1bd4f3b746eebb06" title="Function for uninitializing the Activity." alt="" coords="5,5,120,32"/>
-</map>

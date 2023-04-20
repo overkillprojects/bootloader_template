@@ -1,5 +1,0 @@
-<map id="ble_dfu_evt_handler" name="ble_dfu_evt_handler">
-<area shape="rect" id="node1" title="Function for handling dfu events from the Buttonless Secure DFU service." alt="" coords="5,31,160,57"/>
-<area shape="rect" id="node2" href="$group__Main.html#gac217c5d6111cb1ed3d4a33eb0d13e0b1" title="Retrieve the BLE advertising config." alt="" coords="208,5,377,32"/>
-<area shape="rect" id="node3" href="$group__Main.html#ga36108a3fb8e13a2dfd0ab6755d60ccd7" title="Disconnect from a given connection." alt="" coords="247,56,339,83"/>
-</map>

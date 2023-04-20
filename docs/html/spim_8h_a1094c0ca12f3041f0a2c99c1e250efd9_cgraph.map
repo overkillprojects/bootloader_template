@@ -1,4 +1,0 @@
-<map id="spi_init" name="spi_init">
-<area shape="rect" id="node1" title="Function for initializing SPIM driver." alt="" coords="5,5,75,32"/>
-<area shape="rect" id="node2" href="$group__FlashMem.html#ga2894a33f3f5f6fdcf878c4f9dcf73a60" title="Function to handle SPIM callbacks." alt="" coords="123,5,277,32"/>
-</map>

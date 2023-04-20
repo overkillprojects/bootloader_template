@@ -1,9 +1,0 @@
-<map id="inv_icm20948_resume_akm" name="inv_icm20948_resume_akm">
-<area shape="rect" id="node1" title="Starts the compass." alt="" coords="5,46,211,73"/>
-<area shape="rect" id="node2" href="$group__inv__icm20948__secondary__transport.html#gac8f3588040d2aca70dcb3ddecc6f4255" title="Reads data in i2c a secondary device." alt="" coords="259,17,481,43"/>
-<area shape="rect" id="node7" href="$group__inv__icm20948__secondary__transport.html#gafbd5f9e38e44791274ebff7aa23a9b52" title="Writes data in i2c a secondary device." alt="" coords="293,68,447,109"/>
-<area shape="rect" id="node3" href="$group__DriverIcm20948Transport.html#ga868e9ce97909f5faa0b51ea1203de421" title="Write data to a register on MEMs." alt="" coords="529,39,683,80"/>
-<area shape="rect" id="node4" href="$group__icm20948__base__driver.html#ga848900bbfeffe779ac3a67f200577eb3" title="Current wake status of the Mems chip." alt="" coords="731,5,905,47"/>
-<area shape="rect" id="node5" href="$group__icm20948__base__driver.html#ga1f8adb5948df62cc789974c461e57bf4" title="This function sets the power state of the Ivory chip loop." alt="" coords="731,71,905,112"/>
-<area shape="rect" id="node6" href="$group__DriverIcm20948Transport.html#ga9bedbe765b506fdcd02bc809f67aa99c" title="Write single byte of data to a register on MEMs with no power control." alt="" coords="953,71,1132,112"/>
-</map>

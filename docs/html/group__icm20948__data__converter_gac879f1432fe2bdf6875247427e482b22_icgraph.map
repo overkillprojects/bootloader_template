@@ -1,4 +1,0 @@
-<map id="inv_icm20948_convert_inverse_q30_fxp" name="inv_icm20948_convert_inverse_q30_fxp">
-<area shape="rect" id="node1" title="Inverse function based on Newton&#45;Raphson 1/sqrt(x) calculation." alt="" coords="223,5,392,47"/>
-<area shape="rect" id="node2" href="$group__icm20948__data__converter.html#ga942ea0b3e149d93bde331cc5368ff32c" title="Converts a rotation matrix to a quaternion." alt="" coords="5,5,175,47"/>
-</map>

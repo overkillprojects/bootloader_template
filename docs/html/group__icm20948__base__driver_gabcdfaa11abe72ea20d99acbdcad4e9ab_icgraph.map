@@ -1,4 +1,0 @@
-<map id="inv_icm20948_get_odr_in_units" name="inv_icm20948_get_odr_in_units">
-<area shape="rect" id="node1" title="Returns the real odr in Milliseconds, Micro Seconds or Ticks." alt="" coords="251,5,420,47"/>
-<area shape="rect" id="node2" href="$group__icm20948__base__control.html#ga29d44e10821e4871e17b6d9ea2f9c223" title="Gets the odr for a sensor." alt="" coords="5,13,203,39"/>
-</map>

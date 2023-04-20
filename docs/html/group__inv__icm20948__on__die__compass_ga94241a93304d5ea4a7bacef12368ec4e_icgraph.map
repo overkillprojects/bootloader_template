@@ -1,4 +1,0 @@
-<map id="inv_icm20948_compass_dmp_cal" name="inv_icm20948_compass_dmp_cal">
-<area shape="rect" id="node1" title="Calibrates the data." alt="" coords="236,5,415,47"/>
-<area shape="rect" id="node2" href="$group__icm20948__base__driver.html#ga227a00f58a0326bb3fe7ad3fd72e9a72" title="Initializes the compass and the id address." alt="" coords="5,5,188,47"/>
-</map>

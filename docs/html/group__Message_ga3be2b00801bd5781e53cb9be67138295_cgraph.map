@@ -1,5 +1,0 @@
-<map id="inv_msg_setup_level" name="inv_msg_setup_level">
-<area shape="rect" id="node1" title="Set message level Default printer function will be used." alt="" coords="5,31,164,57"/>
-<area shape="rect" id="node2" href="$group__Message.html#gae406819457a4f7437b55fdd0d3546ed1" title="Default printer function that display messages to stderr Function uses stdio. Care must be taken on e..." alt="" coords="212,5,392,32"/>
-<area shape="rect" id="node3" href="$group__Message.html#gaebe2d23da34bfa93d120331b80a22c2f" title="Set message level and printer function." alt="" coords="242,56,362,83"/>
-</map>

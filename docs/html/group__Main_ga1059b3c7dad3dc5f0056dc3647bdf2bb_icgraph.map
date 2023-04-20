@@ -1,4 +1,0 @@
-<map id="buttonless_dfu_sdh_state_observer" name="buttonless_dfu_sdh_state_observer">
-<area shape="rect" id="node1" title="Observer for buttonless DFU." alt="" coords="260,5,408,47"/>
-<area shape="rect" id="node2" href="$group__Main.html#ga0e1e2d2296525412e8d1b7e1293c5ead" title="SD state observer attachment macro." alt="" coords="5,13,212,39"/>
-</map>

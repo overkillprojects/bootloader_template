@@ -1,4 +1,0 @@
-<map id="build_sensor_event_data" name="build_sensor_event_data">
-<area shape="rect" id="node1" title="Function to populate data into ICM&#45;20948 data structure." alt="" coords="5,13,189,39"/>
-<area shape="rect" id="node2" href="$group__inv__icm20948__mpu__fifo__control.html#ga1c650171848344d0a7cfcf40bad19e33" title="Returns the accelerometer accuracy." alt="" coords="237,5,420,47"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="inv_icm20948_read_mems" name="inv_icm20948_read_mems">
-<area shape="rect" id="node1" title="Read data from a register in DMP memory." alt="" coords="267,5,464,32"/>
-<area shape="rect" id="node2" href="$group__icm20948__load__firmware.html#ga284cee9a835bff6d7bf6cb7afa964178" title="Loads the DMP firmware from SRAM." alt="" coords="5,5,219,32"/>
-</map>

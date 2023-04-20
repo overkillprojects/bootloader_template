@@ -1,4 +1,0 @@
-<map id="disconnect" name="disconnect">
-<area shape="rect" id="node1" title="Disconnect from a given connection." alt="" coords="208,5,300,32"/>
-<area shape="rect" id="node2" href="$group__Main.html#ga6a54a802b21a752c87459e705c9842f9" title="Function for handling dfu events from the Buttonless Secure DFU service." alt="" coords="5,5,160,32"/>
-</map>

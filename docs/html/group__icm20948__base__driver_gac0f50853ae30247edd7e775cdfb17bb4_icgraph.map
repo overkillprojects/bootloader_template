@@ -1,4 +1,0 @@
-<map id="inv_icm20948_set_icm20948_accel_fullscale" name="inv_icm20948_set_icm20948_accel_fullscale">
-<area shape="rect" id="node1" title="Sets fullscale range of accel in hardware." alt="" coords="235,5,445,47"/>
-<area shape="rect" id="node2" href="$group__icm20948__base__driver.html#ga6f02e8accc1e69993d352fb134fc668f" title="Sets fullscale range of accel in hardware." alt="" coords="5,5,187,47"/>
-</map>

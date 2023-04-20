@@ -1,5 +1,0 @@
-<map id="inv_icm20948_convert_sqrt_q30_fxp" name="inv_icm20948_convert_sqrt_q30_fxp">
-<area shape="rect" id="node1" title="Calculates square&#45;root of a fixed&#45;point number." alt="" coords="5,35,175,76"/>
-<area shape="rect" id="node2" href="$group__icm20948__data__converter.html#ga30269402b4cfefc77cb6d05c45667518" title="Calculates 1/square&#45;root of a fixed&#45;point number (30 bit mantissa, positive): Q1.30." alt="" coords="223,5,392,47"/>
-<area shape="rect" id="node3" href="$group__icm20948__data__converter.html#ga7649bd9344876e119c46f8bc5d05d258" title=" " alt="" coords="440,35,609,76"/>
-</map>

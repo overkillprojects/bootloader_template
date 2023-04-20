@@ -1,4 +1,0 @@
-<map id="inv_msg_setup_default" name="inv_msg_setup_default">
-<area shape="rect" id="node1" title="Set default message level and printer." alt="" coords="5,5,179,32"/>
-<area shape="rect" id="node2" href="$group__Message.html#gaebe2d23da34bfa93d120331b80a22c2f" title="Set message level and printer function." alt="" coords="227,5,347,32"/>
-</map>

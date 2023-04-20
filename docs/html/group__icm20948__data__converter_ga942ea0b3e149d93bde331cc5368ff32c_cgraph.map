@@ -1,7 +1,0 @@
-<map id="inv_icm20948_convert_matrix_to_quat_fxp" name="inv_icm20948_convert_matrix_to_quat_fxp">
-<area shape="rect" id="node1" title="Converts a rotation matrix to a quaternion." alt="" coords="5,79,175,120"/>
-<area shape="rect" id="node2" href="$group__icm20948__data__converter.html#gac879f1432fe2bdf6875247427e482b22" title="Inverse function based on Newton&#45;Raphson 1/sqrt(x) calculation." alt="" coords="223,13,392,55"/>
-<area shape="rect" id="node4" href="$group__icm20948__data__converter.html#ga7649bd9344876e119c46f8bc5d05d258" title=" " alt="" coords="657,57,827,99"/>
-<area shape="rect" id="node5" href="$group__icm20948__data__converter.html#ga8d8c5c7e81a824957fbce2b2ece80edb" title="Calculates square&#45;root of a fixed&#45;point number." alt="" coords="223,79,392,120"/>
-<area shape="rect" id="node3" href="$group__icm20948__data__converter.html#ga30269402b4cfefc77cb6d05c45667518" title="Calculates 1/square&#45;root of a fixed&#45;point number (30 bit mantissa, positive): Q1.30." alt="" coords="440,28,609,69"/>
-</map>

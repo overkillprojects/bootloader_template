@@ -1,4 +1,0 @@
-<map id="inv_icm20948_get_accel_accuracy" name="inv_icm20948_get_accel_accuracy">
-<area shape="rect" id="node1" title="Returns the accelerometer accuracy." alt="" coords="237,5,420,47"/>
-<area shape="rect" id="node2" href="$group__ICM-20948.html#gab8cd1ff43811cfb333f1a53e0ac7509b" title="Function to populate data into ICM&#45;20948 data structure." alt="" coords="5,13,189,39"/>
-</map>

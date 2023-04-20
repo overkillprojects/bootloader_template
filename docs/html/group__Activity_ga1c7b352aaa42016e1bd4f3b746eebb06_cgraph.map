@@ -1,8 +1,0 @@
-<map id="activity_deinit" name="activity_deinit">
-<area shape="rect" id="node1" title="Function for uninitializing the Activity." alt="" coords="5,31,120,57"/>
-<area shape="rect" id="node2" href="$group__Audio.html#gac6720c0f80fe731b450f096892ffe4d2" title="Function to de&#45;initialize audio driver." alt="" coords="182,5,285,32"/>
-<area shape="rect" id="node5" href="$pin__sense_8h.html#aec4eab36c3e8197d6f27082ca245a157" title="Function to uninitialize the pin sense driver." alt="" coords="168,56,299,83"/>
-<area shape="rect" id="node3" href="$group__FileDriver.html#gae154d53b97ec8790f88f727d4dec65cc" title="File driver uninitialization function." alt="" coords="352,5,483,32"/>
-<area shape="rect" id="node4" href="$group__FlashMem.html#ga8b2dc3a41e627e41e81ef81db3c304f2" title="Function to de&#45;initialize audio driver." alt="" coords="536,5,675,32"/>
-<area shape="rect" id="node6" href="$pin__sense_8h.html#ad27cf382db5062e358eaab80fb8bcd74" title="Function to disable the pin sense interrupt." alt="" coords="347,56,488,83"/>
-</map>

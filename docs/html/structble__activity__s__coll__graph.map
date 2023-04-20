@@ -1,5 +1,0 @@
-<map id="ble_activity_s" name="ble_activity_s">
-<area shape="rect" id="node1" title="Device service structure." alt="" coords="96,95,208,121"/>
-<area shape="rect" id="node2" href="$structble__activity__evt__t.html" title="Activity service event." alt="" coords="5,5,144,32"/>
-<area shape="rect" id="node3" href="$structactivity__score__t.html" title="Activity score." alt="" coords="168,5,293,32"/>
-</map>

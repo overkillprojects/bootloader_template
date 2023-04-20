@@ -1,4 +1,0 @@
-<map id="usbd_user_ev_handler" name="usbd_user_ev_handler">
-<area shape="rect" id="node1" title="Callback for USB events." alt="" coords="156,5,323,32"/>
-<area shape="rect" id="node2" href="$usb__cdc_8h.html#a84e3504661c30819cba44a04fc75c4b1" title="Function to initialize USB CDC driver." alt="" coords="5,5,108,32"/>
-</map>

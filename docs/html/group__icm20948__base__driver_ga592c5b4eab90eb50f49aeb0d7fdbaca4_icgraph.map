@@ -1,5 +1,0 @@
-<map id="inv_icm20948_get_compass_availability" name="inv_icm20948_get_compass_availability">
-<area shape="rect" id="node1" title="Determine if compass could be successfully found and inited on board." alt="" coords="245,35,452,76"/>
-<area shape="rect" id="node2" href="$group__icm20948__base__control.html#gaad33265267275acfee0dcaa878b42bb8" title="Enables / disables a sensor." alt="" coords="5,5,197,47"/>
-<area shape="rect" id="node3" href="$group__icm20948__base__control.html#ga4077aacac685314d0cd98a9cdf2d68a3" title="Sets the odr for a sensor." alt="" coords="17,71,185,98"/>
-</map>

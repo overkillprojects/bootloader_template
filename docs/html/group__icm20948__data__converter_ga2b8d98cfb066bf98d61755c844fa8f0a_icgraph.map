@@ -1,6 +1,0 @@
-<map id="inv_icm20948_q_mult_q_qi" name="inv_icm20948_q_mult_q_qi">
-<area shape="rect" id="node1" title=" " alt="" coords="248,78,447,105"/>
-<area shape="rect" id="node2" href="$group__icm20948__augmented__sensors.html#ga550f11cfd83d378fa5bc7aca1bd02957" title="Gets the 3 axis gravity value based on GRV quaternion." alt="" coords="5,5,200,47"/>
-<area shape="rect" id="node3" href="$group__icm20948__data__converter.html#ga7c0f50b6fd21ef269a27b1883f77ac23" title="Converts fixed point DMP rotation vector to floating point android notation." alt="" coords="18,71,187,112"/>
-<area shape="rect" id="node4" href="$group__icm20948__data__converter.html#ga14e8f22cf2ec8f6c66f9bb1a6513d56a" title="Converts 3 element fixed point DMP rotation vector to 4 element rotation vector in world frame." alt="" coords="18,136,187,177"/>
-</map>

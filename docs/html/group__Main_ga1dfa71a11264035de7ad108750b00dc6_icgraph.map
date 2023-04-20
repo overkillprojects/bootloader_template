@@ -1,4 +1,0 @@
-<map id="set_client_flag" name="set_client_flag">
-<area shape="rect" id="node1" title="Function for writing the client flag to UICR." alt="" coords="220,13,336,39"/>
-<area shape="rect" id="node2" href="$group__Main.html#gafd9c9be7d1cc93e028178a3f034965a1" title="BLE device service client flag GATT write callback." alt="" coords="5,5,172,47"/>
-</map>

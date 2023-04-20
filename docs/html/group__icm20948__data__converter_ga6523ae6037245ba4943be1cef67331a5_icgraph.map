@@ -1,5 +1,0 @@
-<map id="inv_icm20948_convert_mult_qfix_fxp" name="inv_icm20948_convert_mult_qfix_fxp">
-<area shape="rect" id="node1" title="Performs a multiply and shift by shift." alt="" coords="248,39,417,80"/>
-<area shape="rect" id="node2" href="$group__icm20948__augmented__sensors.html#ga550f11cfd83d378fa5bc7aca1bd02957" title="Gets the 3 axis gravity value based on GRV quaternion." alt="" coords="5,5,200,47"/>
-<area shape="rect" id="node3" href="$group__icm20948__augmented__sensors.html#gaae887db8e8dc18856b2c3b82fb00bbbc" title="Gets the 3 axis orientation value based on RV quaternion." alt="" coords="5,71,200,112"/>
-</map>

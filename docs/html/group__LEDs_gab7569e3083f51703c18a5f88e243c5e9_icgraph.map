@@ -1,5 +1,0 @@
-<map id="leds_pulse" name="leds_pulse">
-<area shape="rect" id="node1" title="Function to pulse the LEDs." alt="" coords="175,31,265,57"/>
-<area shape="rect" id="node2" href="$group__Activity.html#ga034fb06b65741eeb50efa53a1c8f7f92" title="Function to begin a sensor stage of an activity." alt="" coords="5,5,127,32"/>
-<area shape="rect" id="node3" href="$group__Activity.html#ga9ba083b89d3cc34e9517fd8beb1902ca" title="Function to begin a timer stage of an activity." alt="" coords="9,56,123,83"/>
-</map>

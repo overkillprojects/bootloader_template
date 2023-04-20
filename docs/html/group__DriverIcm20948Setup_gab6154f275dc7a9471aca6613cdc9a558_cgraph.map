@@ -1,5 +1,0 @@
-<map id="inv_icm20948_set_lowpower_or_highperformance" name="inv_icm20948_set_lowpower_or_highperformance">
-<area shape="rect" id="node1" title="Have the chip to enter low&#45;power or low&#45;noise mode." alt="" coords="5,39,216,80"/>
-<area shape="rect" id="node2" href="$group__icm20948__base__driver.html#ga215bc9218b0ae9f1bc242649f376e91e" title="Have the chip to enter stand duty cycled mode, also called low&#45;power mode where max reporting frequen..." alt="" coords="264,5,419,47"/>
-<area shape="rect" id="node3" href="$group__icm20948__base__driver.html#gaa6c77a9998132320ab1599a79cdd1236" title="Have the chip to enter low&#45;noise mode." alt="" coords="264,71,419,112"/>
-</map>

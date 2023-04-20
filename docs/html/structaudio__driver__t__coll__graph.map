@@ -1,7 +1,0 @@
-<map id="audio_driver_t" name="audio_driver_t">
-<area shape="rect" id="node1" title="Data structure of the audio driver instance." alt="" coords="27,184,142,211"/>
-<area shape="rect" id="node2" href="$structaudio__clip__t.html" title="Data structure of audio clips." alt="" coords="5,95,105,121"/>
-<area shape="rect" id="node3" href="$structfile__driver__t.html" title="File driver state struct." alt="" coords="130,95,229,121"/>
-<area shape="rect" id="node4" href="$structflash__mem__t.html" title="Flash memory state structure." alt="" coords="55,5,162,32"/>
-<area shape="rect" id="node5" href="$structfile__driver__file__t.html" title="File driver file struct." alt="" coords="187,5,313,32"/>
-</map>

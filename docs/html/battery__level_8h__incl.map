@@ -1,9 +1,0 @@
-<map id="/mnt/c/Users/jacob/nRF5_SDK_17.0.2_d674dde/examples/ble_peripheral/stix_dfu/pca10056/s140/ses/stix_libs/battery_level.h" name="/mnt/c/Users/jacob/nRF5_SDK_17.0.2_d674dde/examples/ble_peripheral/stix_dfu/pca10056/s140/ses/stix_libs/battery_level.h">
-<area shape="rect" id="node1" title="Driver for measuring battery level." alt="" coords="251,5,457,91"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,139,60,165"/>
-<area shape="rect" id="node3" title=" " alt="" coords="84,139,229,165"/>
-<area shape="rect" id="node4" title=" " alt="" coords="254,139,363,165"/>
-<area shape="rect" id="node5" title=" " alt="" coords="471,213,557,240"/>
-<area shape="rect" id="node6" title=" " alt="" coords="439,139,544,165"/>
-<area shape="rect" id="node7" href="$stix__pin__map_8h_source.html" title=" " alt="" coords="568,139,689,165"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="ble_activity_score_update" name="ble_activity_score_update">
-<area shape="rect" id="node1" title="Function for updating the score characteristic." alt="" coords="213,5,353,47"/>
-<area shape="rect" id="node2" href="$group__ActivityScoreQueue.html#gae983f965897f9a5bd8c8e5b69ae32145" title="Function to process new scores." alt="" coords="5,5,165,47"/>
-</map>

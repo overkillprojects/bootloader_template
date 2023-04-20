@@ -1,4 +1,0 @@
-<map id="ble_activity_score_update" name="ble_activity_score_update">
-<area shape="rect" id="node1" title="Function for updating the score characteristic." alt="" coords="5,5,145,47"/>
-<area shape="rect" id="node2" href="$group__BLEActivity.html#gac58a6f24a6bccbc121c79f311b03ac62" title="Function populates the indication enabled flag." alt="" coords="193,5,380,47"/>
-</map>

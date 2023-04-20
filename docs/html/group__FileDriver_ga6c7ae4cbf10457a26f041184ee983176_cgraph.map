@@ -1,7 +1,0 @@
-<map id="file_driver_init" name="file_driver_init">
-<area shape="rect" id="node1" title="File driver initialization function." alt="" coords="5,31,120,57"/>
-<area shape="rect" id="node2" href="$usb__cdc_8h.html#a0de14745db5ced8d50f9c373a15e078b" title="Event handler for file_driver." alt="" coords="168,5,355,32"/>
-<area shape="rect" id="node3" href="$group__FlashMem.html#gab8afc374634ffa96f05f60a4b40b1730" title="Function for initializing flash memory driver." alt="" coords="200,56,323,83"/>
-<area shape="rect" id="node4" href="$spim_8h.html#a1094c0ca12f3041f0a2c99c1e250efd9" title="Function for initializing SPIM driver." alt="" coords="403,31,472,57"/>
-<area shape="rect" id="node5" href="$group__FlashMem.html#ga2894a33f3f5f6fdcf878c4f9dcf73a60" title="Function to handle SPIM callbacks." alt="" coords="520,56,675,83"/>
-</map>

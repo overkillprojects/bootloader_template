@@ -1,4 +1,0 @@
-<map id="inv_icm20948_set_odr" name="inv_icm20948_set_odr">
-<area shape="rect" id="node1" title="Sets the odr for a sensor." alt="" coords="5,13,173,39"/>
-<area shape="rect" id="node2" href="$group__icm20948__base__driver.html#ga592c5b4eab90eb50f49aeb0d7fdbaca4" title="Determine if compass could be successfully found and inited on board." alt="" coords="221,5,428,47"/>
-</map>

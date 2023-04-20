@@ -1,5 +1,0 @@
-<map id="inv_icm20948_wakeup_mems" name="inv_icm20948_wakeup_mems">
-<area shape="rect" id="node1" title="Wakes up mems platform." alt="" coords="245,46,464,73"/>
-<area shape="rect" id="node2" href="$group__icm20948__base__control.html#gaad33265267275acfee0dcaa878b42bb8" title="Enables / disables a sensor." alt="" coords="5,5,197,47"/>
-<area shape="rect" id="node3" href="$group__icm20948__base__driver.html#ga206a8a3af1fe9f843b652acd164cfa6c" title="Initializes the platform." alt="" coords="13,71,189,112"/>
-</map>
