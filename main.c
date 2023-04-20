@@ -117,14 +117,16 @@
 
 #define DEAD_BEEF 0xDEADBEEF /**< Value used as error code on stack dump, can be used to identify stack location on stack unwind. */
 
-#define GREED_LED NRF_GPIO_PIN_MAP(0, 27)
+#define GREEN_LED NRF_GPIO_PIN_MAP(0, 27)
+#define BLUE_LED NRF_GPIO_PIN_MAP(1, 10)
+#define RED_LED NRF_GPIO_PIN_MAP(1, 15)
 
 NRF_BLE_GATT_DEF(m_gatt);           /**< GATT module instance. */
 NRF_BLE_QWR_DEF(m_qwr);             /**< Context for the Queued Write module.*/
 BLE_ADVERTISING_DEF(m_advertising); /**< Advertising module instance. */
 
 static uint16_t m_conn_handle = BLE_CONN_HANDLE_INVALID; /**< Handle of the current connection. */
-static void advertising_start(bool erase_bonds);         /**< Forward declaration of advertising start function */
+static void advertising_start(void);                     /**< Forward declaration of advertising start function */
 
 // YOUR_JOB: Use UUIDs for service(s) used in your application.
 static ble_uuid_t m_adv_uuids[] = {{BLE_UUID_DEVICE_INFORMATION_SERVICE, BLE_UUID_TYPE_BLE}};
@@ -512,7 +514,7 @@ static void sleep_mode_enter(void)
 {
     // Disable SoftDevice. It is required to be able to write to GPREGRET2 register (SoftDevice API blocks it).
     // GPREGRET2 register holds the information about skipping CRC check on next boot.
-    err_code = nrf_sdh_disable_request();
+    ret_code_t err_code = nrf_sdh_disable_request();
     APP_ERROR_CHECK(err_code);
 }
 
@@ -524,14 +526,11 @@ static void sleep_mode_enter(void)
  */
 static void on_adv_evt(ble_adv_evt_t ble_adv_evt)
 {
-    uint32_t err_code;
-
     switch (ble_adv_evt)
     {
     case BLE_ADV_EVT_FAST:
         // TODO set blue LED
-        err_code = bsp_indication_set(BSP_INDICATE_ADVERTISING);
-        APP_ERROR_CHECK(err_code);
+        nrf_gpio_pin_set(BLUE_LED);
         break;
 
     case BLE_ADV_EVT_IDLE:
@@ -559,8 +558,7 @@ static void ble_evt_handler(ble_evt_t const *p_ble_evt, void *p_context)
         break;
 
     case BLE_GAP_EVT_CONNECTED:
-        err_code = bsp_indication_set(BSP_INDICATE_CONNECTED);
-        APP_ERROR_CHECK(err_code);
+        nrf_gpio_pin_clear(BLUE_LED);
         m_conn_handle = p_ble_evt->evt.gap_evt.conn_handle;
         err_code = nrf_ble_qwr_conn_handle_assign(&m_qwr, m_conn_handle);
         APP_ERROR_CHECK(err_code);
@@ -660,6 +658,7 @@ static void peer_manager_init()
 
 /** @brief Clear bonding information from persistent storage.
  */
+/*
 static void delete_bonds(void)
 {
     ret_code_t err_code;
@@ -669,6 +668,7 @@ static void delete_bonds(void)
     err_code = pm_peers_delete();
     APP_ERROR_CHECK(err_code);
 }
+*/
 
 /**@brief Function for initializing the Advertising functionality.
  */
@@ -699,18 +699,16 @@ static void advertising_init(void)
  *
  * @param[out] p_erase_bonds  Will be true if the clear bonding button was pressed to wake the application up.
  */
-static void buttons_leds_init(bool *p_erase_bonds)
+static void buttons_leds_init(void)
 {
-    uint32_t err_code;
-    bsp_event_t startup_event;
+    nrf_gpio_pin_clear(GREEN_LED);
+    nrf_gpio_cfg_output(GREEN_LED);
 
-    err_code = bsp_init(BSP_INIT_LEDS | BSP_INIT_BUTTONS, bsp_event_handler);
-    APP_ERROR_CHECK(err_code);
+    nrf_gpio_pin_clear(BLUE_LED);
+    nrf_gpio_cfg_output(BLUE_LED);
 
-    err_code = bsp_btn_ble_init(NULL, &startup_event);
-    APP_ERROR_CHECK(err_code);
-
-    *p_erase_bonds = (startup_event == BSP_EVENT_CLEAR_BONDING_DATA);
+    nrf_gpio_pin_clear(RED_LED);
+    nrf_gpio_cfg_output(RED_LED);
 }
 
 /**@brief Function for the Power manager.
@@ -734,20 +732,12 @@ static void gatt_init(void)
 
 /**@brief Function for starting advertising.
  */
-static void advertising_start(bool erase_bonds)
+static void advertising_start(void)
 {
-    if (erase_bonds == true)
-    {
-        delete_bonds();
-        // Advertising is started by PM_EVT_PEERS_DELETE_SUCCEEDED event.
-    }
-    else
-    {
-        uint32_t err_code = ble_advertising_start(&m_advertising, BLE_ADV_MODE_FAST);
-        APP_ERROR_CHECK(err_code);
+    uint32_t err_code = ble_advertising_start(&m_advertising, BLE_ADV_MODE_FAST);
+    APP_ERROR_CHECK(err_code);
 
-        NRF_LOG_DEBUG("advertising is started");
-    }
+    NRF_LOG_DEBUG("advertising is started");
 }
 
 static void power_management_init(void)
@@ -772,7 +762,6 @@ static void idle_state_handle(void)
  */
 int main(void)
 {
-    bool erase_bonds;
     ret_code_t err_code;
 
     log_init();
@@ -783,7 +772,7 @@ int main(void)
 
     timers_init();
     power_management_init();
-    buttons_leds_init(&erase_bonds);
+    buttons_leds_init();
     ble_stack_init();
     peer_manager_init();
     gap_params_init();
@@ -796,7 +785,7 @@ int main(void)
 
     // Start execution.
     application_timers_start();
-    advertising_start(erase_bonds);
+    advertising_start();
 
     // Enter main loop.
     for (;;)
@@ -804,3 +793,20 @@ int main(void)
         idle_state_handle();
     }
 }
+
+/* These are for arm toolchain 11.3, which screwed up these defs
+ * BEGIN arm toolchain fix
+ */
+void _close(void)
+{
+}
+void _lseek(void)
+{
+}
+void _read(void)
+{
+}
+void _write(void)
+{
+}
+/* END arm toolchain fix */

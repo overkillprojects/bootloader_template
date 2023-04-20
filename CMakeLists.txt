@@ -48,7 +48,6 @@ set(SDK_INTEGRATION_NRFX_LEGACY_DIR ${SDK_INTEGRATION_NRFX_DIR}/legacy)
 set(PROJECT_CONFIG_DIR ${CMAKE_SOURCE_DIR}/config)
 
 set(SDK_DIR ${CMAKE_SOURCE_DIR}/SDK)
-set(VERSION ${VERSION})
 
 set(ignoreMe "${BOOTLOADER}")
 
@@ -66,7 +65,6 @@ add_compile_definitions(
     NRF_SD_BLE_API_VERSION=7
     S140
     SOFTDEVICE_PRESENT
-    VERSION=${VERSION}
 )
 
 add_executable(bootloader_template ${CMAKE_SOURCE_DIR}/main.c)
@@ -195,7 +193,6 @@ target_include_directories(
     ${PROJECT_CONFIG_DIR}
 )
 
-add_subdirectory(${STIX_LIBS_DIR})
 add_subdirectory(${SDK_DIR})
 
 add_custom_command(

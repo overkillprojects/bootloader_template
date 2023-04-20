@@ -25,7 +25,6 @@ cmake \
     -DKEY_DIR=${BOOTLOADER_KEY_DIR} \
     -DARM_NONE_EABI_PATH=${ARM_NONE_EABI_PATH} \
     -DSDK_ROOT_DIR=${NRF_SDK_DIR} \
-    -DVERSION=${VERSION} \
     ..
 
 # make project and show pcts

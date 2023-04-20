@@ -1,7 +1,7 @@
 message(STATUS "Starting with the ${SDK_COMPONENT_BLE_LIBRARIES_DIR} directory")
 
 target_sources(
-    stix_fw PUBLIC
+    bootloader_template PUBLIC
 
     ${SDK_COMPONENT_BLE_LIBRARIES_DIR}/ble_advertising/ble_advertising.c
     ${SDK_COMPONENT_BLE_LIBRARIES_DIR}/ble_db_discovery/ble_db_discovery.c
