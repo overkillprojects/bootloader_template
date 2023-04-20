@@ -1,0 +1,9 @@
+<map id="ble_device_init" name="ble_device_init">
+<area shape="rect" id="node1" title="Function for initializing the Device service." alt="" coords="5,132,125,159"/>
+<area shape="rect" id="node2" href="$group__DeviceInfo.html#ga086cf93445182b33c3522b0ab195c8bc" title="Retrieve the address of the device." alt="" coords="181,5,364,32"/>
+<area shape="rect" id="node3" href="$group__DeviceInfo.html#gad99ce45ebb8f8900a304326a3cf56921" title="Retrieve the client flag of the device." alt="" coords="173,56,372,83"/>
+<area shape="rect" id="node4" href="$group__DeviceInfo.html#gab198c97de6f781594ee2f75fb2e0b700" title="Retrieve the firmware version of the device." alt="" coords="185,107,360,133"/>
+<area shape="rect" id="node5" href="$group__DeviceInfo.html#ga46f635739a156f4058dd16935b5ab74b" title="Retrieve the paired flag of the device." alt="" coords="186,157,359,184"/>
+<area shape="rect" id="node6" href="$group__DeviceInfo.html#ga8373080b733600b1a6609d64aabcca09" title="Retrieve the partner address of the device." alt="" coords="183,209,362,250"/>
+<area shape="rect" id="node7" href="$group__GainCtrl.html#ga18db1493c6d923547a01bf6581b6944b" title="Function to get audio gain." alt="" coords="219,275,326,301"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ble_evt_handler" name="ble_evt_handler">
+<area shape="rect" id="node1" title="Function for handling BLE events." alt="" coords="165,5,292,32"/>
+<area shape="rect" id="node2" href="$group__Main.html#gaa06a7a39e83ec4cf3553f4ed6ba6323a" title="Function for initializing the BLE stack." alt="" coords="5,5,117,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="device_info_get_partner_address" name="device_info_get_partner_address">
+<area shape="rect" id="node1" title="Retrieve the partner address of the device." alt="" coords="173,5,352,47"/>
+<area shape="rect" id="node2" href="$group__BLEDevice.html#gaab89d68e13230f757d56b83c0a0604a9" title="Function for initializing the Device service." alt="" coords="5,13,125,39"/>
+</map>

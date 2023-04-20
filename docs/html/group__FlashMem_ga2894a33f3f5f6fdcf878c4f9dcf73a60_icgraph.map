@@ -1,0 +1,9 @@
+<map id="spim_event_handler" name="spim_event_handler">
+<area shape="rect" id="node1" title="Function to handle SPIM callbacks." alt="" coords="664,64,819,91"/>
+<area shape="rect" id="node2" href="$group__FlashMem.html#gab8afc374634ffa96f05f60a4b40b1730" title="Function for initializing flash memory driver." alt="" coords="376,64,499,91"/>
+<area shape="rect" id="node7" href="$spim_8h.html#a1094c0ca12f3041f0a2c99c1e250efd9" title="Function for initializing SPIM driver." alt="" coords="547,89,616,116"/>
+<area shape="rect" id="node3" href="$group__ActivityScoreQueue.html#gad2d9a9f300b868ef1b089a93b309bbb5" title="Activity score queue initialization." alt="" coords="140,5,328,32"/>
+<area shape="rect" id="node4" href="$group__ActivityScoreQueue.html#ga6e1f3624ddda87f9430e8fad2a9aff4e" title="Function to stach the queue into flash (NV) memory." alt="" coords="154,57,314,98"/>
+<area shape="rect" id="node5" href="$group__FileDriver.html#ga6c7ae4cbf10457a26f041184ee983176" title="File driver initialization function." alt="" coords="177,123,291,149"/>
+<area shape="rect" id="node6" href="$group__Audio.html#gafc7cf3522fa65e525e1a09fec06f496b" title="Function to initialize audio driver." alt="" coords="5,123,92,149"/>
+</map>

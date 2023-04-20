@@ -1,0 +1,8 @@
+<map id="inv_icm20948_read_secondary" name="inv_icm20948_read_secondary">
+<area shape="rect" id="node1" title="Reads data in i2c a secondary device." alt="" coords="696,78,919,105"/>
+<area shape="rect" id="node2" href="$group__inv__icm20948__secondary__transport.html#gabdee6df2b78e29dbb860b5d64d701c7b" title="Reads data in i2c a secondary device directly." alt="" coords="460,12,631,53"/>
+<area shape="rect" id="node4" href="$group__inv__icm20948__on__die__compass.html#ga790ecd92e7025e3e6877a93c248b934c" title="Initializes the compass." alt="" coords="237,71,393,112"/>
+<area shape="rect" id="node6" href="$group__inv__icm20948__on__die__compass.html#ga3556c8e6f4b00645bc3c6a4b14d5030a" title="Starts the compass." alt="" coords="443,129,648,155"/>
+<area shape="rect" id="node3" href="$group__inv__icm20948__on__die__compass.html#ga8a013e2382d33d54135ed2e5cae21fa3" title="Self test for the compass." alt="" coords="236,5,395,47"/>
+<area shape="rect" id="node5" href="$group__icm20948__base__driver.html#ga227a00f58a0326bb3fe7ad3fd72e9a72" title="Initializes the compass and the id address." alt="" coords="5,71,188,112"/>
+</map>

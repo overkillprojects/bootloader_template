@@ -1,0 +1,5 @@
+<map id="pin_sense_disable" name="pin_sense_disable">
+<area shape="rect" id="node1" title="Function to disable the pin sense interrupt." alt="" coords="347,5,488,32"/>
+<area shape="rect" id="node2" href="$pin__sense_8h.html#aec4eab36c3e8197d6f27082ca245a157" title="Function to uninitialize the pin sense driver." alt="" coords="168,5,299,32"/>
+<area shape="rect" id="node3" href="$group__Activity.html#ga1c7b352aaa42016e1bd4f3b746eebb06" title="Function for uninitializing the Activity." alt="" coords="5,5,120,32"/>
+</map>

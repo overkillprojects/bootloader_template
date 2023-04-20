@@ -1,0 +1,10 @@
+<map id="flash_mem_deinit" name="flash_mem_deinit">
+<area shape="rect" id="node1" title="Function to de&#45;initialize audio driver." alt="" coords="633,64,772,91"/>
+<area shape="rect" id="node2" href="$group__ActivityScoreQueue.html#gad2d9a9f300b868ef1b089a93b309bbb5" title="Activity score queue initialization." alt="" coords="397,5,585,32"/>
+<area shape="rect" id="node3" href="$group__ActivityScoreQueue.html#ga6e1f3624ddda87f9430e8fad2a9aff4e" title="Function to stach the queue into flash (NV) memory." alt="" coords="411,57,571,98"/>
+<area shape="rect" id="node5" href="$group__FileDriver.html#gae154d53b97ec8790f88f727d4dec65cc" title="File driver uninitialization function." alt="" coords="426,123,557,149"/>
+<area shape="rect" id="node4" href="$group__Main.html#ga323dec408207dc24186131e849abb7b1" title="BLE device service reboot GATT write callback." alt="" coords="168,57,349,98"/>
+<area shape="rect" id="node6" href="$group__Audio.html#gac6720c0f80fe731b450f096892ffe4d2" title="Function to de&#45;initialize audio driver." alt="" coords="207,123,310,149"/>
+<area shape="rect" id="node8" href="$usb__cdc_8h.html#a9ff5b57734e06ff34aba56a2c84a647d" title="Function to initialize USB CDC driver." alt="" coords="199,173,318,200"/>
+<area shape="rect" id="node7" href="$group__Activity.html#ga1c7b352aaa42016e1bd4f3b746eebb06" title="Function for uninitializing the Activity." alt="" coords="5,123,120,149"/>
+</map>

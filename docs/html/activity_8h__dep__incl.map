@@ -1,0 +1,10 @@
+<map id="/mnt/c/Users/jacob/nRF5_SDK_17.0.2_d674dde/examples/ble_peripheral/stix_dfu/pca10056/s140/ses/stix_libs/activity.h" name="/mnt/c/Users/jacob/nRF5_SDK_17.0.2_d674dde/examples/ble_peripheral/stix_dfu/pca10056/s140/ses/stix_libs/activity.h">
+<area shape="rect" id="node1" title="Activity driver module." alt="" coords="539,5,746,91"/>
+<area shape="rect" id="node2" href="$main_8c.html" title="Stix Mindfulness main apllication file." alt="" coords="960,405,1162,476"/>
+<area shape="rect" id="node3" href="$activity__balance_8h.html" title="Balance activity driver." alt="" coords="36,139,243,224"/>
+<area shape="rect" id="node4" href="$activity__balloon__arms_8h.html" title="Baloon Arms activity driver." alt="" coords="268,139,508,224"/>
+<area shape="rect" id="node5" href="$activity__body__scan_8h.html" title="Body Scan activity driver." alt="" coords="532,139,753,224"/>
+<area shape="rect" id="node6" href="$activity__deep__breathing_8h.html" title="Deep breathing activity driver." alt="" coords="777,139,1030,224"/>
+<area shape="rect" id="node7" href="$activity__score__queue_8h.html" title="Activity Score Queue module." alt="" coords="944,272,1178,357"/>
+<area shape="rect" id="node8" href="$ble__activity_8h.html" title="BLE Activity service." alt="" coords="1106,139,1312,224"/>
+</map>

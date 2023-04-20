@@ -1,0 +1,5 @@
+<map id="activity_timer" name="activity_timer">
+<area shape="rect" id="node1" title="Function to begin a timer stage of an activity." alt="" coords="5,31,119,57"/>
+<area shape="rect" id="node2" href="$group__LEDs.html#ga49f43b22e51373c131b1e2152061990a" title="Function to turn off the LEDs." alt="" coords="175,5,249,32"/>
+<area shape="rect" id="node3" href="$group__LEDs.html#gab7569e3083f51703c18a5f88e243c5e9" title="Function to pulse the LEDs." alt="" coords="167,56,257,83"/>
+</map>

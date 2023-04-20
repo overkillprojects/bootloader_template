@@ -1,0 +1,17 @@
+<map id="inv_icm20948_initialize_lower_driver" name="inv_icm20948_initialize_lower_driver">
+<area shape="rect" id="node1" title="Initializes the platform." alt="" coords="5,217,181,258"/>
+<area shape="rect" id="node2" href="$group__DriverIcm20948Transport.html#gad3bc965b7521830f01ebed806de24063" title="Read data from a register on MEMs." alt="" coords="496,19,721,45"/>
+<area shape="rect" id="node4" href="$group__icm20948__base__driver.html#ga1f8adb5948df62cc789974c461e57bf4" title="This function sets the power state of the Ivory chip loop." alt="" coords="769,161,944,202"/>
+<area shape="rect" id="node6" href="$group__icm20948__base__driver.html#ga08571f8bd9c3737e9deed56303e25f4c" title="Sets the accel sample rate." alt="" coords="248,183,429,225"/>
+<area shape="rect" id="node7" href="$group__DriverIcm20948Transport.html#ga868e9ce97909f5faa0b51ea1203de421" title="Write data to a register on MEMs." alt="" coords="532,187,685,229"/>
+<area shape="rect" id="node8" href="$group__icm20948__base__driver.html#ga4b0d53f06abd8eda9ceb9e24a3ae0f8d" title="Sets up dmp start address and firmware." alt="" coords="251,249,427,290"/>
+<area shape="rect" id="node9" href="$group__icm20948__base__driver.html#gad5911b94a78d22e37ef4d14ab8cc2e11" title="Sets the gyro sample rate." alt="" coords="251,314,427,355"/>
+<area shape="rect" id="node10" href="$group__DriverIcm20948Setup.html#gab6154f275dc7a9471aca6613cdc9a558" title="Have the chip to enter low&#45;power or low&#45;noise mode." alt="" coords="233,482,444,523"/>
+<area shape="rect" id="node13" href="$group__icm20948__base__driver.html#ga76e4c6bf0b764ac6337b1dbd3d23f146" title="Sleeps up mems platform." alt="" coords="237,380,440,407"/>
+<area shape="rect" id="node14" href="$group__icm20948__base__driver.html#gacac8f4067a5f88f834338885607f93da" title="Wakes up mems platform." alt="" coords="229,81,448,108"/>
+<area shape="rect" id="node15" href="$group__DriverIcm20948Transport.html#ga02a39987b6b81341be291d0a849b33dc" title="Write single byte of data to a register on MEMs." alt="" coords="532,70,685,111"/>
+<area shape="rect" id="node3" href="$group__icm20948__base__driver.html#ga848900bbfeffe779ac3a67f200577eb3" title="Current wake status of the Mems chip." alt="" coords="769,70,944,111"/>
+<area shape="rect" id="node5" href="$group__DriverIcm20948Transport.html#ga9bedbe765b506fdcd02bc809f67aa99c" title="Write single byte of data to a register on MEMs with no power control." alt="" coords="992,161,1171,202"/>
+<area shape="rect" id="node11" href="$group__icm20948__base__driver.html#ga215bc9218b0ae9f1bc242649f376e91e" title="Have the chip to enter stand duty cycled mode, also called low&#45;power mode where max reporting frequen..." alt="" coords="531,482,686,523"/>
+<area shape="rect" id="node12" href="$group__icm20948__base__driver.html#gaa6c77a9998132320ab1599a79cdd1236" title="Have the chip to enter low&#45;noise mode." alt="" coords="531,547,686,589"/>
+</map>

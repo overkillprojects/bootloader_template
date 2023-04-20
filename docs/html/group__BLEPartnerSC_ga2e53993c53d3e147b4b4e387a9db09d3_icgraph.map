@@ -1,0 +1,4 @@
+<map id="ble_partner_service_client_init" name="ble_partner_service_client_init">
+<area shape="rect" id="node1" title="Partner Service Client initialization function." alt="" coords="248,5,399,47"/>
+<area shape="rect" id="node2" href="$group__Main.html#gab5b4fbc0808a00d9709a0ac48dcb5c3a" title="LED Service client initialization." alt="" coords="5,13,200,39"/>
+</map>

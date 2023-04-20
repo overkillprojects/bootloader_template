@@ -1,0 +1,6 @@
+<map id="usb_cdc_t" name="usb_cdc_t">
+<area shape="rect" id="node1" title="USB CDC state structure (driver)" alt="" coords="86,184,173,211"/>
+<area shape="rect" id="node2" href="$structfile__driver__t.html" title="File driver state struct." alt="" coords="80,95,179,121"/>
+<area shape="rect" id="node3" href="$structflash__mem__t.html" title="Flash memory state structure." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node4" href="$structfile__driver__file__t.html" title="File driver file struct." alt="" coords="137,5,263,32"/>
+</map>

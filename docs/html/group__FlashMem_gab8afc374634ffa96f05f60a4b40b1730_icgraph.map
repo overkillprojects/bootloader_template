@@ -1,0 +1,6 @@
+<map id="flash_mem_init" name="flash_mem_init">
+<area shape="rect" id="node1" title="Function for initializing flash memory driver." alt="" coords="471,35,593,61"/>
+<area shape="rect" id="node2" href="$group__ActivityScoreQueue.html#gad2d9a9f300b868ef1b089a93b309bbb5" title="Activity score queue initialization." alt="" coords="235,5,423,32"/>
+<area shape="rect" id="node3" href="$group__ActivityScoreQueue.html#ga6e1f3624ddda87f9430e8fad2a9aff4e" title="Function to stach the queue into flash (NV) memory." alt="" coords="249,57,409,98"/>
+<area shape="rect" id="node4" href="$group__Main.html#ga323dec408207dc24186131e849abb7b1" title="BLE device service reboot GATT write callback." alt="" coords="5,57,187,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="partner_service_client_evt_handler" name="partner_service_client_evt_handler">
+<area shape="rect" id="node1" title="Handles events coming from the partner service client module." alt="" coords="248,5,415,47"/>
+<area shape="rect" id="node2" href="$group__Main.html#gab5b4fbc0808a00d9709a0ac48dcb5c3a" title="LED Service client initialization." alt="" coords="5,13,200,39"/>
+</map>

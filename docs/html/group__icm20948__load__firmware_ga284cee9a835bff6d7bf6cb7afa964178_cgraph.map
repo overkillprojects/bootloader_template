@@ -1,0 +1,8 @@
+<map id="inv_icm20948_firmware_load" name="inv_icm20948_firmware_load">
+<area shape="rect" id="node1" title="Loads the DMP firmware from SRAM." alt="" coords="5,46,219,73"/>
+<area shape="rect" id="node2" href="$group__DriverIcm20948Transport.html#ga09fda243ff8c86c02f199c5cd8c7ab16" title="Read data from a register in DMP memory." alt="" coords="269,21,466,47"/>
+<area shape="rect" id="node6" href="$group__DriverIcm20948Transport.html#gab183fa6c8f62cc66edcfcebaea1eaaf2" title="Write data to a register in DMP memory." alt="" coords="267,71,468,98"/>
+<area shape="rect" id="node3" href="$group__icm20948__base__driver.html#ga848900bbfeffe779ac3a67f200577eb3" title="Current wake status of the Mems chip." alt="" coords="516,5,691,47"/>
+<area shape="rect" id="node4" href="$group__icm20948__base__driver.html#ga1f8adb5948df62cc789974c461e57bf4" title="This function sets the power state of the Ivory chip loop." alt="" coords="516,71,691,112"/>
+<area shape="rect" id="node5" href="$group__DriverIcm20948Transport.html#ga9bedbe765b506fdcd02bc809f67aa99c" title="Write single byte of data to a register on MEMs with no power control." alt="" coords="739,71,917,112"/>
+</map>

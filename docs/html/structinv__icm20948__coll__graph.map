@@ -1,0 +1,9 @@
+<map id="inv_icm20948" name="inv_icm20948">
+<area shape="rect" id="node1" title=" " alt="" coords="720,115,833,141"/>
+<area shape="rect" id="node2" href="$structsensor__type__icm20948.html" title="ICM20948 driver states definition." alt="" coords="368,5,540,32"/>
+<area shape="rect" id="node3" href="$structinv__icm20948__serif.html" title="ICM20948 serial interface." alt="" coords="379,56,529,83"/>
+<area shape="rect" id="node4" href="$structinv__icm20948_1_1inv__icm20948__secondary__states.html" title=" " alt="" coords="348,107,560,149"/>
+<area shape="rect" id="node5" href="$structinv__icm20948_1_1inv__icm20948__secondary__states_1_1inv__icm20948__secondary__reg.html" title=" " alt="" coords="5,100,248,156"/>
+<area shape="rect" id="node6" href="$structinv__icm20948_1_1fifo__info__t.html" title=" " alt="" coords="383,173,525,214"/>
+<area shape="rect" id="node7" href="$structinv__icm20948_1_1base__driver__t.html" title="struct for the base_driver : this contains the Mems information" alt="" coords="378,238,530,279"/>
+</map>

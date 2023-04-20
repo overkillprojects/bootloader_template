@@ -1,0 +1,4 @@
+<map id="flash_mem_erase_all" name="flash_mem_erase_all">
+<area shape="rect" id="node1" title="Finction to erase entire flash memory." alt="" coords="5,5,165,32"/>
+<area shape="rect" id="node2" href="$group__FlashMem.html#ga73e84d4847328ed48367c858a4568c67" title="Function to wait for flash memory to go idle." alt="" coords="213,5,343,32"/>
+</map>

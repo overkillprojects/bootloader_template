@@ -1,0 +1,4 @@
+<map id="inv_icm20948_set_secondary" name="inv_icm20948_set_secondary">
+<area shape="rect" id="node1" title="Sets up the secondary i2c bus." alt="" coords="236,13,451,39"/>
+<area shape="rect" id="node2" href="$group__icm20948__base__driver.html#ga227a00f58a0326bb3fe7ad3fd72e9a72" title="Initializes the compass and the id address." alt="" coords="5,5,188,47"/>
+</map>

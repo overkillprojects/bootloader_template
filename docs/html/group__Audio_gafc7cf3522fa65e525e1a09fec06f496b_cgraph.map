@@ -1,0 +1,4 @@
+<map id="audio_init" name="audio_init">
+<area shape="rect" id="node1" title="Function to initialize audio driver." alt="" coords="5,5,92,32"/>
+<area shape="rect" id="node2" href="$group__FileDriver.html#ga6c7ae4cbf10457a26f041184ee983176" title="File driver initialization function." alt="" coords="140,5,255,32"/>
+</map>

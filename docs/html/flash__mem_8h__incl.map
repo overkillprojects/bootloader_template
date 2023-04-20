@@ -1,0 +1,11 @@
+<map id="/mnt/c/Users/jacob/nRF5_SDK_17.0.2_d674dde/examples/ble_peripheral/stix_dfu/pca10056/s140/ses/stix_libs/flash_mem.h" name="/mnt/c/Users/jacob/nRF5_SDK_17.0.2_d674dde/examples/ble_peripheral/stix_dfu/pca10056/s140/ses/stix_libs/flash_mem.h">
+<area shape="rect" id="node1" title="Flash memory driver." alt="" coords="211,5,417,91"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,139,76,165"/>
+<area shape="rect" id="node3" title=" " alt="" coords="101,139,194,165"/>
+<area shape="rect" id="node4" title=" " alt="" coords="219,139,308,165"/>
+<area shape="rect" id="node5" href="$spim_8h.html" title="SPI controller (master, cringe) driver." alt="" coords="333,139,399,165"/>
+<area shape="rect" id="node7" href="$stix__pin__map_8h_source.html" title=" " alt="" coords="376,213,497,240"/>
+<area shape="rect" id="node9" title=" " alt="" coords="475,139,553,165"/>
+<area shape="rect" id="node6" title=" " alt="" coords="253,213,351,240"/>
+<area shape="rect" id="node8" title=" " alt="" coords="393,288,480,315"/>
+</map>

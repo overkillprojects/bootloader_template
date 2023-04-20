@@ -1,0 +1,4 @@
+<map id="inv_icm20948_set_chip_power_state" name="inv_icm20948_set_chip_power_state">
+<area shape="rect" id="node1" title="Sets the power state of the Ivory chip loop." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node2" href="$group__DriverIcm20948Transport.html#ga9bedbe765b506fdcd02bc809f67aa99c" title="Write single byte of data to a register on MEMs with no power control." alt="" coords="228,5,407,47"/>
+</map>

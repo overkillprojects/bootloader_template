@@ -1,0 +1,4 @@
+<map id="queued_write_handler" name="queued_write_handler">
+<area shape="rect" id="node1" title="Function for handling events from the Queued Write module." alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node2" href="$group__BLEPartner.html#gac70eb48eacdb07f1dc93fc4c93ee77eb" title="Partner queued write event callback." alt="" coords="220,5,399,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="inv_icm20948_set_dmp_address" name="inv_icm20948_set_dmp_address">
+<area shape="rect" id="node1" title="Sets up dmp start address and firmware." alt="" coords="229,5,405,47"/>
+<area shape="rect" id="node2" href="$group__icm20948__base__driver.html#ga206a8a3af1fe9f843b652acd164cfa6c" title="Initializes the platform." alt="" coords="5,5,181,47"/>
+</map>

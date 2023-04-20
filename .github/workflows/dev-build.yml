@@ -1,0 +1,90 @@
+name: Development build
+on:
+  push:
+    branches-ignore:
+      - main
+jobs:
+  build_stix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install GNU Arm Embedded Toolchain
+        uses: carlosperate/arm-none-eabi-gcc-action@v1
+        with:
+          release: 10.3-2021.10
+          path-env-var: ARM_NONE_EABI_GCC_PATH
+      - run: echo "ARM_NONE_EABI_PATH=${ARM_NONE_EABI_GCC_PATH}/.." >> $GITHUB_ENV
+
+      - name: Set up Python 3.10.5
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10.5
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install flake8 pytest
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Lint with flake8
+        run: |
+          # stop the build if there are Python syntax errors or undefined names
+          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+          # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
+          flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+
+      - name: Install nrfutil
+        run: pip install nrfutil
+
+      - name: Check out repository code
+        uses: actions/checkout@v3
+        with:
+          submodules: "true"
+          token: ${{ secrets.SUBMODULE_PAT_TOKEN }}
+          fetch-depth: 0
+
+      - name: Write secure bootloader key
+        run: echo "${{ secrets.BOOTLOADER_PRIVATE_KEY }}" > bootloader_private.key
+
+      - name: Set bootloader key location
+        run: echo "BOOTLOADER_KEY_DIR=${GITHUB_WORKSPACE}" >> $GITHUB_ENV
+
+      - name: Set the nRF SDK directory
+        run: echo "NRF_SDK_DIR=${GITHUB_WORKSPACE}/nrf_sdk" >> $GITHUB_ENV
+
+      - name: Set the DFU package name
+        run: echo "DFU_NAME=dfu_${GITHUB_SHA}" >> $GITHUB_ENV
+
+      - name: Make build script executable
+        run: chmod +x build_project.sh
+
+      - name: Build firmware
+        run: VERSION=${{ env.VERSION }} ./build_project.sh
+
+      - name: Check file exists
+        run: |
+          if [ ! -f "${{ github.workspace }}/build/${{ env.DFU_NAME }}.zip" ]; then
+            exit 1
+          fi
+
+      - name: Upload to S3
+        run: |
+          aws s3 sync ${{ github.workspace }}/build s3://${{ secrets.AWS_BUCKET }} --exclude "*" --include "${{ env.DFU_NAME }}.zip"
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: "eu-west-2"
+
+      - name: Create presigned S3 url
+        id: create_s3_presigned_url
+        run: echo "::set-output name=s3-url::$(aws s3 presign s3://${{ secrets.AWS_BUCKET }}/${{ env.DFU_NAME }}.zip  --expires-in 40000)"
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: "eu-west-2"
+
+      - name: Send a message to Microsoft Teams
+        uses: aliencube/microsoft-teams-actions@v0.8.0
+        env:
+          S3_URL: ${{ steps.create_s3_presigned_url.outputs.s3-url }}
+        with:
+          webhook_uri: ${{ secrets.TEAMS_WEBHOOK_URL }}
+          title: "Build success - ${{ env.DFU_NAME }}"
+          text: "${{ env.S3_URL }}"

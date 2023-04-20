@@ -1,0 +1,7 @@
+<map id="icm_20948_setup" name="icm_20948_setup">
+<area shape="rect" id="node1" title="Function to initialize the ICM&#45;20948." alt="" coords="5,93,141,120"/>
+<area shape="rect" id="node2" href="$group__ICM-20948.html#ga1867ce803f47b915d24ea23b15597dc8" title="Function to initialize the serial interface of the ICM&#45;20948." alt="" coords="196,5,353,32"/>
+<area shape="rect" id="node3" href="$group__inv__icm20948__on__die__compass.html#ga30043b2465f4b7a6ca06168485aa58ae" title="Register AUX compass." alt="" coords="189,57,360,98"/>
+<area shape="rect" id="node4" href="$group__ICM-20948.html#ga918192cc4e6d1ad76af10836834c8d04" title="Function to initialize a us timer for the ICM&#45;20948 vendor driver." alt="" coords="232,123,317,149"/>
+<area shape="rect" id="node5" href="$group__ICM-20948.html#ga291e310cfe4873cb76b6d741fe054f4c" title="Function to initialize I2C (Two&#45;Wire Interface)" alt="" coords="233,173,316,200"/>
+</map>

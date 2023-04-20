@@ -1,0 +1,14 @@
+<map id="/mnt/c/Users/jacob/nRF5_SDK_17.0.2_d674dde/examples/ble_peripheral/stix_dfu/pca10056/s140/ses/stix_libs/flash_mem.h" name="/mnt/c/Users/jacob/nRF5_SDK_17.0.2_d674dde/examples/ble_peripheral/stix_dfu/pca10056/s140/ses/stix_libs/flash_mem.h">
+<area shape="rect" id="node1" title="Flash memory driver." alt="" coords="270,5,476,91"/>
+<area shape="rect" id="node2" href="$activity__score__queue_8h.html" title="Activity Score Queue module." alt="" coords="197,672,432,757"/>
+<area shape="rect" id="node4" href="$file__driver_8h.html" title="File system driver." alt="" coords="746,139,952,224"/>
+<area shape="rect" id="node3" href="$main_8c.html" title="Stix Mindfulness main apllication file." alt="" coords="476,805,678,876"/>
+<area shape="rect" id="node5" href="$audio_8h.html" title="Audio driver module." alt="" coords="746,272,952,357"/>
+<area shape="rect" id="node12" href="$usb__cdc_8h.html" title="USB CDC driver/wrapper." alt="" coords="1452,405,1659,491"/>
+<area shape="rect" id="node6" href="$activity_8h.html" title="Activity driver module." alt="" coords="520,405,727,491"/>
+<area shape="rect" id="node7" href="$activity__balance_8h.html" title="Balance activity driver." alt="" coords="50,539,256,624"/>
+<area shape="rect" id="node8" href="$activity__balloon__arms_8h.html" title="Baloon Arms activity driver." alt="" coords="614,539,854,624"/>
+<area shape="rect" id="node9" href="$activity__body__scan_8h.html" title="Body Scan activity driver." alt="" coords="878,539,1100,624"/>
+<area shape="rect" id="node10" href="$activity__deep__breathing_8h.html" title="Deep breathing activity driver." alt="" coords="1124,539,1377,624"/>
+<area shape="rect" id="node11" href="$ble__activity_8h.html" title="BLE Activity service." alt="" coords="332,539,539,624"/>
+</map>

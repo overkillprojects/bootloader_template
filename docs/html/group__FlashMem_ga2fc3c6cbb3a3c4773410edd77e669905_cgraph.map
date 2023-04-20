@@ -1,0 +1,5 @@
+<map id="file_driver_reset_files" name="file_driver_reset_files">
+<area shape="rect" id="node1" title="Function to reset audio files (i.e. erase flash IC)" alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node2" href="$group__FlashMem.html#gae93c410705986819411c573668486492" title="Finction to erase entire flash memory." alt="" coords="215,5,375,32"/>
+<area shape="rect" id="node3" href="$group__FlashMem.html#ga73e84d4847328ed48367c858a4568c67" title="Function to wait for flash memory to go idle." alt="" coords="423,5,552,32"/>
+</map>

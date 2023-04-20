@@ -1,0 +1,4 @@
+<map id="inv_icm20948_sleep_mems" name="inv_icm20948_sleep_mems">
+<area shape="rect" id="node1" title="Sleeps up mems platform." alt="" coords="229,13,432,39"/>
+<area shape="rect" id="node2" href="$group__icm20948__base__driver.html#ga206a8a3af1fe9f843b652acd164cfa6c" title="Initializes the platform." alt="" coords="5,5,181,47"/>
+</map>

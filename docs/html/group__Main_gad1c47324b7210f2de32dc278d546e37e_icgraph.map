@@ -1,0 +1,4 @@
+<map id="battery_level_meas_timeout_handler" name="battery_level_meas_timeout_handler">
+<area shape="rect" id="node1" title="Function for handling the Battery measurement timer timeout." alt="" coords="145,5,296,47"/>
+<area shape="rect" id="node2" href="$group__Main.html#ga09658aaa0774820d8f25249d551bc283" title="Function for the Timer initialization." alt="" coords="5,13,97,39"/>
+</map>

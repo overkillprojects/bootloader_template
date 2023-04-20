@@ -1,0 +1,6 @@
+<map id="inv_icm20948_convert_fast_sqrt_fxp" name="inv_icm20948_convert_fast_sqrt_fxp">
+<area shape="rect" id="node1" title="Calculates square&#45;root of a fixed&#45;point number (30 bit mantissa, positive)" alt="" coords="5,39,175,80"/>
+<area shape="rect" id="node2" href="$group__icm20948__data__converter.html#ga7649bd9344876e119c46f8bc5d05d258" title=" " alt="" coords="237,5,407,47"/>
+<area shape="rect" id="node3" href="$group__icm20948__data__converter.html#ga0a10e6fbd9620e91317cbb857a6fe3a4" title="Auxiliary function used by inv_OneOverX(), inv_fastSquareRoot(), inv_inverseSqrt()." alt="" coords="223,71,421,112"/>
+<area shape="rect" id="node4" href="$group__icm20948__data__converter.html#ga6d526f3608f1bfaf345b52c99cc3fb2e" title=" " alt="" coords="469,71,657,112"/>
+</map>

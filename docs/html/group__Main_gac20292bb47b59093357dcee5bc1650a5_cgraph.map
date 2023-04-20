@@ -1,0 +1,6 @@
+<map id="ble_stack_init" name="ble_stack_init">
+<area shape="rect" id="node1" title="Function for initializing the BLE stack." alt="" coords="5,31,117,57"/>
+<area shape="rect" id="node2" href="$group__Main.html#ga41eb4deadd05b126c24a79a218eca614" title="Function for handling BLE events." alt="" coords="165,31,292,57"/>
+<area shape="rect" id="node3" href="$group__Main.html#ga19fa9168c58c74670b4d5af1f0bd3ba4" title="Function for handling BLE events from the central application. ." alt="" coords="351,5,496,32"/>
+<area shape="rect" id="node4" href="$group__Main.html#ga470f2f1be97c48ccdbfc7709f7e2afd8" title="The big source for processing BLE peripheral events. ." alt="" coords="340,56,507,83"/>
+</map>

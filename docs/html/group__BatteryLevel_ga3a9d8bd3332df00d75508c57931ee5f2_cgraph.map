@@ -1,0 +1,4 @@
+<map id="battery_level_init" name="battery_level_init">
+<area shape="rect" id="node1" title="Function for initializing the battery level driver." alt="" coords="5,5,141,32"/>
+<area shape="rect" id="node2" href="$group__BatteryLevel.html#gaf1c53d0b135a42c0712423c3b188aa41" title="Function for performing a sample and convert." alt="" coords="189,5,349,32"/>
+</map>

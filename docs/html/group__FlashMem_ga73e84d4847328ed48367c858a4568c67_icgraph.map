@@ -1,0 +1,11 @@
+<map id="flash_mem_wait" name="flash_mem_wait">
+<area shape="rect" id="node1" title="Function to wait for flash memory to go idle." alt="" coords="724,81,853,108"/>
+<area shape="rect" id="node2" href="$group__FlashMem.html#gae93c410705986819411c573668486492" title="Finction to erase entire flash memory." alt="" coords="499,31,659,57"/>
+<area shape="rect" id="node4" href="$group__FlashMem.html#ga76fa233db36fe81f27771a43b846bb73" title="Common code for blocking mode flash memory read." alt="" coords="481,107,676,133"/>
+<area shape="rect" id="node3" href="$group__FileDriver.html#ga2fc3c6cbb3a3c4773410edd77e669905" title="Function to reset audio files (i.e. erase flash IC)" alt="" coords="257,5,418,32"/>
+<area shape="rect" id="node5" href="$group__FlashMem.html#ga7a3c50f23f2a38be50f0882b44a65b57" title="Function for flash memory read." alt="" coords="272,56,403,83"/>
+<area shape="rect" id="node6" href="$group__FlashMem.html#gaf6c0c848841c6482976d02b395ad329f" title="Function for blocking mode flash memory read." alt="" coords="241,107,433,133"/>
+<area shape="rect" id="node7" href="$group__FlashMem.html#ga56626abdf544246f4a1328895c8a7e63" title="Function for flash memory read on page boundary." alt="" coords="253,157,422,184"/>
+<area shape="rect" id="node8" href="$group__FlashMem.html#gac595e70f9833330ceb1c899ee23a7246" title="Function for blocking mode flash memory read on page boundary." alt="" coords="253,209,422,250"/>
+<area shape="rect" id="node9" href="$group__ActivityScoreQueue.html#gad2d9a9f300b868ef1b089a93b309bbb5" title="Activity score queue initialization." alt="" coords="5,216,193,243"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="inv_icm20948_ctrl_enable_sensor" name="inv_icm20948_ctrl_enable_sensor">
+<area shape="rect" id="node1" title="Enables / disables a sensor." alt="" coords="5,136,197,177"/>
+<area shape="rect" id="node2" href="$group__icm20948__base__driver.html#ga0b7517c6c4387e241ef434e23b17ee06" title="Allow LP_EN to be set to 1 again and sets it to 1 again if supported by chip." alt="" coords="512,5,667,47"/>
+<area shape="rect" id="node5" href="$group__icm20948__base__driver.html#ga592c5b4eab90eb50f49aeb0d7fdbaca4" title="Determine if compass could be successfully found and inited on board." alt="" coords="251,165,458,207"/>
+<area shape="rect" id="node6" href="$group__icm20948__base__driver.html#ga6f32acf90f9a8343e7e56a99cb8e1fce" title="Prevent LP_EN from being set to 1 again, this speeds up transaction." alt="" coords="269,231,440,272"/>
+<area shape="rect" id="node7" href="$group__icm20948__base__driver.html#gacac8f4067a5f88f834338885607f93da" title="Wakes up mems platform." alt="" coords="245,114,464,141"/>
+<area shape="rect" id="node3" href="$group__icm20948__base__driver.html#ga1f8adb5948df62cc789974c461e57bf4" title="This function sets the power state of the Ivory chip loop." alt="" coords="715,93,889,135"/>
+<area shape="rect" id="node4" href="$group__DriverIcm20948Transport.html#ga9bedbe765b506fdcd02bc809f67aa99c" title="Write single byte of data to a register on MEMs with no power control." alt="" coords="937,93,1116,135"/>
+<area shape="rect" id="node8" href="$group__DriverIcm20948Transport.html#ga868e9ce97909f5faa0b51ea1203de421" title="Write data to a register on MEMs." alt="" coords="513,188,666,229"/>
+<area shape="rect" id="node10" href="$group__DriverIcm20948Transport.html#ga02a39987b6b81341be291d0a849b33dc" title="Write single byte of data to a register on MEMs." alt="" coords="513,123,666,164"/>
+<area shape="rect" id="node9" href="$group__icm20948__base__driver.html#ga848900bbfeffe779ac3a67f200577eb3" title="Current wake status of the Mems chip." alt="" coords="715,159,889,200"/>
+</map>

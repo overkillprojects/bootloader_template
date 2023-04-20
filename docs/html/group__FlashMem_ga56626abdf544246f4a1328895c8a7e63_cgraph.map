@@ -1,0 +1,5 @@
+<map id="flash_mem_read_page" name="flash_mem_read_page">
+<area shape="rect" id="node1" title="Function for flash memory read on page boundary." alt="" coords="5,5,175,32"/>
+<area shape="rect" id="node2" href="$group__FlashMem.html#ga76fa233db36fe81f27771a43b846bb73" title="Common code for blocking mode flash memory read." alt="" coords="223,5,417,32"/>
+<area shape="rect" id="node3" href="$group__FlashMem.html#ga73e84d4847328ed48367c858a4568c67" title="Function to wait for flash memory to go idle." alt="" coords="465,5,595,32"/>
+</map>

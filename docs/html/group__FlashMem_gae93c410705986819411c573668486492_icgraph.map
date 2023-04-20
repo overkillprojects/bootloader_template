@@ -1,0 +1,4 @@
+<map id="flash_mem_erase_all" name="flash_mem_erase_all">
+<area shape="rect" id="node1" title="Finction to erase entire flash memory." alt="" coords="215,5,375,32"/>
+<area shape="rect" id="node2" href="$group__FileDriver.html#ga2fc3c6cbb3a3c4773410edd77e669905" title="Function to reset audio files (i.e. erase flash IC)" alt="" coords="5,5,167,32"/>
+</map>

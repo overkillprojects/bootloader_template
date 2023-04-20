@@ -1,0 +1,8 @@
+<map id="flash_mem_read_common" name="flash_mem_read_common">
+<area shape="rect" id="node1" title="Common code for blocking mode flash memory read." alt="" coords="481,81,676,108"/>
+<area shape="rect" id="node2" href="$group__FlashMem.html#ga7a3c50f23f2a38be50f0882b44a65b57" title="Function for flash memory read." alt="" coords="272,5,403,32"/>
+<area shape="rect" id="node3" href="$group__FlashMem.html#gaf6c0c848841c6482976d02b395ad329f" title="Function for blocking mode flash memory read." alt="" coords="241,56,433,83"/>
+<area shape="rect" id="node4" href="$group__FlashMem.html#ga56626abdf544246f4a1328895c8a7e63" title="Function for flash memory read on page boundary." alt="" coords="253,107,422,133"/>
+<area shape="rect" id="node5" href="$group__FlashMem.html#gac595e70f9833330ceb1c899ee23a7246" title="Function for blocking mode flash memory read on page boundary." alt="" coords="253,158,422,199"/>
+<area shape="rect" id="node6" href="$group__ActivityScoreQueue.html#gad2d9a9f300b868ef1b089a93b309bbb5" title="Activity score queue initialization." alt="" coords="5,165,193,192"/>
+</map>

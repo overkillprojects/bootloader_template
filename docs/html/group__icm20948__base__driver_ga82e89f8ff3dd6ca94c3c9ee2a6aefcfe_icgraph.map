@@ -1,0 +1,4 @@
+<map id="inv_icm20948_set_secondary_divider" name="inv_icm20948_set_secondary_divider">
+<area shape="rect" id="node1" title="Sets the I2C secondary device sample rate." alt="" coords="240,5,455,47"/>
+<area shape="rect" id="node2" href="$group__inv__icm20948__secondary__transport.html#gad76f39c6d38adf34d38116463055e70f" title="Changes the odr of the I2C master." alt="" coords="5,5,192,47"/>
+</map>

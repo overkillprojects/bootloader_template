@@ -1,0 +1,14 @@
+<map id="/mnt/c/Users/jacob/nRF5_SDK_17.0.2_d674dde/examples/ble_peripheral/stix_dfu/pca10056/s140/ses/stix_libs/file_driver.h" name="/mnt/c/Users/jacob/nRF5_SDK_17.0.2_d674dde/examples/ble_peripheral/stix_dfu/pca10056/s140/ses/stix_libs/file_driver.h">
+<area shape="rect" id="node1" title="File system driver." alt="" coords="211,5,417,91"/>
+<area shape="rect" id="node2" title=" " alt="" coords="133,139,236,165"/>
+<area shape="rect" id="node3" href="$flash__mem_8h.html" title="Flash memory driver." alt="" coords="261,139,367,165"/>
+<area shape="rect" id="node12" href="$stix__drv_8h_source.html" title=" " alt="" coords="391,139,477,165"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,213,76,240"/>
+<area shape="rect" id="node5" title=" " alt="" coords="101,213,194,240"/>
+<area shape="rect" id="node6" title=" " alt="" coords="219,213,308,240"/>
+<area shape="rect" id="node7" href="$spim_8h.html" title="SPI controller (master, cringe) driver." alt="" coords="333,213,399,240"/>
+<area shape="rect" id="node9" href="$stix__pin__map_8h_source.html" title=" " alt="" coords="376,288,497,315"/>
+<area shape="rect" id="node11" title=" " alt="" coords="475,213,553,240"/>
+<area shape="rect" id="node8" title=" " alt="" coords="253,288,351,315"/>
+<area shape="rect" id="node10" title=" " alt="" coords="393,363,480,389"/>
+</map>

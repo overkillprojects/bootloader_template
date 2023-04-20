@@ -1,0 +1,8 @@
+<map id="inv_icm20948_set_int1_assertion" name="inv_icm20948_set_int1_assertion">
+<area shape="rect" id="node1" title="Asserts int1 interrupt when DMP execute INT1 cmd." alt="" coords="5,39,177,80"/>
+<area shape="rect" id="node2" href="$group__DriverIcm20948Transport.html#gad3bc965b7521830f01ebed806de24063" title="Read data from a register on MEMs." alt="" coords="225,17,451,43"/>
+<area shape="rect" id="node6" href="$group__DriverIcm20948Transport.html#ga02a39987b6b81341be291d0a849b33dc" title="Write single byte of data to a register on MEMs." alt="" coords="261,68,415,109"/>
+<area shape="rect" id="node3" href="$group__icm20948__base__driver.html#ga848900bbfeffe779ac3a67f200577eb3" title="Current wake status of the Mems chip." alt="" coords="499,5,673,47"/>
+<area shape="rect" id="node4" href="$group__icm20948__base__driver.html#ga1f8adb5948df62cc789974c461e57bf4" title="This function sets the power state of the Ivory chip loop." alt="" coords="499,71,673,112"/>
+<area shape="rect" id="node5" href="$group__DriverIcm20948Transport.html#ga9bedbe765b506fdcd02bc809f67aa99c" title="Write single byte of data to a register on MEMs with no power control." alt="" coords="721,71,900,112"/>
+</map>

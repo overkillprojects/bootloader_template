@@ -1,0 +1,8 @@
+<map id="flash_mem_write_page" name="flash_mem_write_page">
+<area shape="rect" id="node1" title="Function for flash memory write." alt="" coords="635,71,808,98"/>
+<area shape="rect" id="node2" href="$group__FlashMem.html#gab5afb36734be680110a63b9d540340d1" title="Function for flash memory write on page boundary." alt="" coords="452,71,587,98"/>
+<area shape="rect" id="node3" href="$group__ActivityScoreQueue.html#ga6e1f3624ddda87f9430e8fad2a9aff4e" title="Function to stach the queue into flash (NV) memory." alt="" coords="239,5,399,47"/>
+<area shape="rect" id="node5" href="$group__FileDriver.html#gab361713ccad9276dea1809b0a33d99e3" title="Function to set version of data on flash IC." alt="" coords="235,71,404,98"/>
+<area shape="rect" id="node6" href="$group__FileDriver.html#ga9e2e2b8139bff28eea8a3a5028e64698" title="Function to write next sector of file data and update next sector." alt="" coords="238,123,401,164"/>
+<area shape="rect" id="node4" href="$group__Main.html#ga323dec408207dc24186131e849abb7b1" title="BLE device service reboot GATT write callback." alt="" coords="5,5,187,47"/>
+</map>

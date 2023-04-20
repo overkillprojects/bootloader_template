@@ -1,0 +1,4 @@
+<map id="gain_ctrl_set" name="gain_ctrl_set">
+<area shape="rect" id="node1" title="Function to set audio gain." alt="" coords="220,13,325,39"/>
+<area shape="rect" id="node2" href="$group__Main.html#ga6442ddef6ce37609f68d4679b7b97732" title="BLE device service gain GATT write callback." alt="" coords="5,5,172,47"/>
+</map>

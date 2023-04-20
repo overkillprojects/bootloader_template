@@ -1,0 +1,4 @@
+<map id="get_address_string" name="get_address_string">
+<area shape="rect" id="node1" title="Returns the address of the devie as a string." alt="" coords="189,5,335,32"/>
+<area shape="rect" id="node2" href="$group__Main.html#gab23726398c36d84484b41e8a78e0d192" title="Callback for scan events." alt="" coords="5,5,141,32"/>
+</map>

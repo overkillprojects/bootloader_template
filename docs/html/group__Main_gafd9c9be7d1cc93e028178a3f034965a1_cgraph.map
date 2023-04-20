@@ -1,0 +1,4 @@
+<map id="ble_device_client_flag_write_handler" name="ble_device_client_flag_write_handler">
+<area shape="rect" id="node1" title="BLE device service client flag GATT write callback." alt="" coords="5,5,172,47"/>
+<area shape="rect" id="node2" href="$group__Main.html#ga1dfa71a11264035de7ad108750b00dc6" title="Function for writing the client flag to UICR." alt="" coords="220,13,336,39"/>
+</map>

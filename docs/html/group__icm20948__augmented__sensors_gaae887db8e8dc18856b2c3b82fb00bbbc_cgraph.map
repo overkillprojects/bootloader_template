@@ -1,0 +1,11 @@
+<map id="inv_icm20948_augmented_sensors_get_orientation" name="inv_icm20948_augmented_sensors_get_orientation">
+<area shape="rect" id="node1" title="Gets the 3 axis orientation value based on RV quaternion." alt="" coords="5,136,200,177"/>
+<area shape="rect" id="node2" href="$group__icm20948__data__converter.html#ga1fac3afc22904fd53d24cae32be26aee" title="Compute real part of quaternion, element[0]." alt="" coords="265,71,458,112"/>
+<area shape="rect" id="node3" href="$group__icm20948__data__converter.html#ga2c0d8b1b447f98ecebf8625774da6b8a" title="Calculates square&#45;root of a fixed&#45;point number (30 bit mantissa, positive)" alt="" coords="523,12,692,53"/>
+<area shape="rect" id="node7" href="$group__icm20948__data__converter.html#ga6523ae6037245ba4943be1cef67331a5" title="Performs a multiply and shift by shift." alt="" coords="277,136,446,177"/>
+<area shape="rect" id="node8" href="$group__icm20948__data__converter.html#gafd62dd50a2fdcbc51e81a2f7349e351b" title="Converts a quaternion to a rotation matrix in column major convention." alt="" coords="248,201,475,243"/>
+<area shape="rect" id="node9" href="$group__icm20948__data__converter.html#ga2eaddaf9b3bcc31aeb6ab7fdb8615004" title="Seventh order Chebychev polynomial approximation in Q15." alt="" coords="262,267,461,308"/>
+<area shape="rect" id="node4" href="$group__icm20948__data__converter.html#ga7649bd9344876e119c46f8bc5d05d258" title=" " alt="" coords="755,71,924,112"/>
+<area shape="rect" id="node5" href="$group__icm20948__data__converter.html#ga0a10e6fbd9620e91317cbb857a6fe3a4" title="Auxiliary function used by inv_OneOverX(), inv_fastSquareRoot(), inv_inverseSqrt()." alt="" coords="740,5,939,47"/>
+<area shape="rect" id="node6" href="$group__icm20948__data__converter.html#ga6d526f3608f1bfaf345b52c99cc3fb2e" title=" " alt="" coords="987,5,1175,47"/>
+</map>

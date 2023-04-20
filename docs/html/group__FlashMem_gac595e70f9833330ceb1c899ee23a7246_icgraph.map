@@ -1,0 +1,4 @@
+<map id="flash_mem_read_page_blocking" name="flash_mem_read_page_blocking">
+<area shape="rect" id="node1" title="Function for blocking mode flash memory read on page boundary." alt="" coords="241,5,411,47"/>
+<area shape="rect" id="node2" href="$group__ActivityScoreQueue.html#gad2d9a9f300b868ef1b089a93b309bbb5" title="Activity score queue initialization." alt="" coords="5,13,193,39"/>
+</map>

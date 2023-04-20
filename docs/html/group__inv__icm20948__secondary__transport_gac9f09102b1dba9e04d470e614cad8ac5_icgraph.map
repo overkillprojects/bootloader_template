@@ -1,0 +1,10 @@
+<map id="inv_icm20948_secondary_stop_channel" name="inv_icm20948_secondary_stop_channel">
+<area shape="rect" id="node1" title="Stop one secondary I2C channel by writing 0 in its control register." alt="" coords="757,100,944,141"/>
+<area shape="rect" id="node2" href="$group__inv__icm20948__secondary__transport.html#gabdee6df2b78e29dbb860b5d64d701c7b" title="Reads data in i2c a secondary device directly." alt="" coords="519,71,689,112"/>
+<area shape="rect" id="node6" href="$group__inv__icm20948__secondary__transport.html#ga77d80f7419b2f9b9a66d2749e0a4a10f" title="Writes data in i2c a secondary device directly." alt="" coords="519,5,689,47"/>
+<area shape="rect" id="node7" href="$group__inv__icm20948__secondary__transport.html#ga7a7e39db56d71911c4fe3191bb87e04e" title="Initializes the register for the i2c communication." alt="" coords="236,137,451,163"/>
+<area shape="rect" id="node8" href="$group__inv__icm20948__on__die__compass.html#gacf83d9386446da612e87b6c751e25498" title="Stops the compass." alt="" coords="499,187,709,214"/>
+<area shape="rect" id="node3" href="$group__inv__icm20948__on__die__compass.html#ga8a013e2382d33d54135ed2e5cae21fa3" title="Self test for the compass." alt="" coords="264,5,423,47"/>
+<area shape="rect" id="node4" href="$group__inv__icm20948__on__die__compass.html#ga790ecd92e7025e3e6877a93c248b934c" title="Initializes the compass." alt="" coords="265,71,421,112"/>
+<area shape="rect" id="node5" href="$group__icm20948__base__driver.html#ga227a00f58a0326bb3fe7ad3fd72e9a72" title="Initializes the compass and the id address." alt="" coords="5,100,188,141"/>
+</map>

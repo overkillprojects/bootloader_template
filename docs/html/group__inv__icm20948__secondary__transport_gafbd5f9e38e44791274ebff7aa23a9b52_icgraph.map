@@ -1,0 +1,6 @@
+<map id="inv_icm20948_write_secondary" name="inv_icm20948_write_secondary">
+<area shape="rect" id="node1" title="Writes data in i2c a secondary device." alt="" coords="465,35,619,76"/>
+<area shape="rect" id="node2" href="$group__inv__icm20948__secondary__transport.html#ga77d80f7419b2f9b9a66d2749e0a4a10f" title="Writes data in i2c a secondary device directly." alt="" coords="229,5,400,47"/>
+<area shape="rect" id="node4" href="$group__inv__icm20948__on__die__compass.html#ga3556c8e6f4b00645bc3c6a4b14d5030a" title="Starts the compass." alt="" coords="212,71,417,98"/>
+<area shape="rect" id="node3" href="$group__inv__icm20948__on__die__compass.html#ga8a013e2382d33d54135ed2e5cae21fa3" title="Self test for the compass." alt="" coords="5,5,164,47"/>
+</map>
